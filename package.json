@@ -1,0 +1,15 @@
+{
+  "name": "falansh",
+  "version": "1.0.0",
+  "description": "Webscrapper for images",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Falansh Siddh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
